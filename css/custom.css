@@ -646,7 +646,7 @@ header.main-header .header-sticky.active {
 
 .hero {
 	min-height: 100vh;
-	background: url('../images/banner1.webp') no-repeat center center;
+	background: url('../images/herobanner.jpg') no-repeat center center;
 	background-size: cover;
 	position: relative;
 	display: flex;
@@ -878,6 +878,7 @@ header.main-header .header-sticky.active {
 
 .icon-box .icon-box-content p {
 	margin-bottom: 0;
+	
 }
 
 /**************************************/
